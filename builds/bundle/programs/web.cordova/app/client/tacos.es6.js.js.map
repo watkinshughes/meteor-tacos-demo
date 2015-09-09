@@ -1,0 +1,2 @@
+)]}'
+{"version":3,"sources":["tacos.es6.js"],"names":[],"mappings":"YAAA,QAAQ,CAAC,KAAK,CAAC,OAAO,CAAC;AACrB,OAAK,mBAAG;AACN,QAAI,OAAO,GAAG,CAAC,GAAG,CAAC,CAAC;AACpB,WAAO,OAAO,CAAC;GAChB;AACD,OAAK,mBAAG;AACN,WAAO,KAAK,CAAC,IAAI,EAAE,CAAC;GACrB;CACF,CAAC,C","file":"/client/tacos.es6.js.js","sourcesContent":["Template.tacos.helpers({\n  check() {\n    let awesome = 1 > 0;\n    return awesome;\n  },\n  tacos() {\n    return Tacos.find();\n  }\n});"]}

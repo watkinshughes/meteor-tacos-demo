@@ -1,0 +1,1 @@
+###Basic Meteor demo including basic usage and structure, package installation, PubSub, and Cordova builds
